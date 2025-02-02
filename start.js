@@ -5,8 +5,8 @@ const cors = require('cors');
 const app = express();
 const porta = 3000;
 
-app.use(cors()); // Habilita CORS
-app.use(express.json()); // Permite JSON no futuro
+app.use(cors()); 
+app.use(express.json()); 
 
 // Middleware para verificar a chave de acesso
 const verificarChave = (req, res, next) => {
