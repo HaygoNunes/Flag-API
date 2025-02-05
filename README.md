@@ -1,3 +1,4 @@
+```markdown
 # API de Bandeiras
 
 Esta API desenvolvida em Node.js utiliza o **Express**, **Axios** e **Cors** para fornecer uma rota que redireciona para a imagem da bandeira de um país específico. A imagem é obtida a partir de um repositório hospedado no GitHub.
@@ -114,3 +115,5 @@ Este projeto é licenciado sob a [MIT License](LICENSE).
 ---
 
 Sinta-se à vontade para contribuir ou abrir issues caso encontre algum problema. Obrigado por utilizar a API de Bandeiras!
+```
+
